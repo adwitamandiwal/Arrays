@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-image: url("img1.jpg");
+}
+#p1{
+    font-family: Cambria, Cochin, Georgia;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    color: cornsilk;
+    background-color: midnightblue;
+}
+#album{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    border: black solid 4px;
+    padding: 4px;
+}
+  #myreasons{
+    font-size:35px;
+    font-family:georgia;
+    color:darkgreen;
+  }
+#mybutton{
+    text-align: center;
+    width:150px;
+    height:50px;
+    border-radius: 20px;
+    border: 4px solid black;
+    font-size: 22px;
+}
+#H2{
+    font-size: 40px;
+    font-family: cursive;
+    color: green;
+}
+#mysubtitle{
+    font-size: 20px;
+    font-family: cursive;
+    color: green;
+}
+  
